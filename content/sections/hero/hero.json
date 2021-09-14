@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Hi",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Michał",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "Let's make the internet",
+    "highlight": " together",
+    "suffix": "!"
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Frontend developer with attention to detail and accessibility in mind",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Github", "Mail", "LinkedIn"],
     "showIcons": false
   }
 }

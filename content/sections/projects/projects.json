@@ -2,46 +2,71 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "TIME MANAGEMENT AND FOCUS",
+      "title": "Customizable pomodoro timer",
+      "description": "Little app that helps manage time and tasks. User can customize settings and add his own tasks",
+      "tags": ["Working with intervals", "Context API"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
+        "src": "../../images/pomodoro.png",
+        "alt": "Pomodoro timer"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/mkoptewicz/pomodoro-timer"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://mypomodorotimerapp.netlify.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "VIDEO AND ENTERTAINMENT",
+      "title": "Video app",
+      "description": "Video app that lets the users keep their favourite videos from all the different sites in one place by pasting the link or the video's Id. Click the 'Load demo videos button' to see the example data",
+      "tags": ["Working with multiple APIs", "React Bootstrap"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/video-app.png",
+        "alt": "video app"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/mkoptewicz/video-app"
+        },
+        {
+          "type": "external",
+          "url": "https://add-your-videos.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Music player",
+      "title": "Songify!",
+      "description": "Songify is a small, fully responsive music-player app preloaded with demo songs. User can change song by clicking the previous and next buttons or selecting the song from the expandable list, adjust volume and rewind the track by dragging or clicking on the track progress bar.",
+      "tags": ["Working with audio", "Fetch API"],
+      "image": {
+        "src": "../../images/music-player.png",
+        "alt": "Music player"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/mkoptewicz/music-player"
+        },
+        {
+          "type": "external",
+          "url": "https://songify-music.netlify.app/"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "My github page",
+    "url": "https://github.com/mkoptewicz"
   }
 }
