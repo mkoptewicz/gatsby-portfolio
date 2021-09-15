@@ -13,8 +13,8 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="Michal Koptewicz junior frontend developer" />
-      <Page useSplashScreenAnimation>
-        <HeroSection />
+      <Page>
+        <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About me" />
         <InterestsSection sectionId="skills" heading="Skills" />
         <ProjectsSection sectionId="projects" heading="Latest projects" />

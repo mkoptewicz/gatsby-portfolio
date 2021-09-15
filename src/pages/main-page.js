@@ -1,15 +1,21 @@
-import React from 'react'
+import React from "react";
 
-import {AboutSection, HeroSection, Page, ProjectsSection, Seo } from "gatsby-theme-portfolio-minimal";
+import {
+  AboutSection,
+  HeroSection,
+  Page,
+  ProjectsSection,
+  Seo,
+} from "gatsby-theme-portfolio-minimal";
 
 export default function MainPage() {
   return (
     <>
       <Seo title="MainPage" />
-      <Page useSplashScreenAnimation>
-       <HeroSection sectionId="about"/>
+      <Page >
+        <HeroSection sectionId="about" />
         <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <ProjectsSection/>
+        <ProjectsSection />
       </Page>
     </>
   );
