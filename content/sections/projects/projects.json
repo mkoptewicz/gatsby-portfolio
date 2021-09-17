@@ -2,27 +2,6 @@
   "projects": [
     {
       "visible": true,
-      "category": "TIME MANAGEMENT AND FOCUS",
-      "title": "Customizable pomodoro timer (work in progress)",
-      "description": "Little app that helps manage time and tasks. User can customize settings and add his own tasks",
-      "tags": ["Working with intervals", "Context API"],
-      "image": {
-        "src": "../../images/pomodoro.png",
-        "alt": "Pomodoro timer"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/mkoptewicz/pomodoro-timer"
-        },
-        {
-          "type": "external",
-          "url": "https://mypomodorotimerapp.netlify.app/"
-        }
-      ]
-    },
-    {
-      "visible": true,
       "category": "VIDEO AND ENTERTAINMENT",
       "title": "Video app",
       "description": "Video app that lets the users keep their favourite videos from all the different sites in one place by pasting the link or the video's Id. Click the 'Load demo videos button' to see the example data",
@@ -60,6 +39,27 @@
         {
           "type": "external",
           "url": "https://songify-music.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "TIME MANAGEMENT AND FOCUS",
+      "title": "Customizable pomodoro timer (work in progress)",
+      "description": "Little app that helps manage time and tasks. User can customize settings and add his own tasks",
+      "tags": ["Working with intervals", "Context API"],
+      "image": {
+        "src": "../../images/pomodoro.png",
+        "alt": "Pomodoro timer"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/mkoptewicz/pomodoro-timer"
+        },
+        {
+          "type": "external",
+          "url": "https://mypomodorotimerapp.netlify.app/"
         }
       ]
     }
