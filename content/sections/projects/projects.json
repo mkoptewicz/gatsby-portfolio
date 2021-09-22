@@ -46,7 +46,7 @@
       "visible": true,
       "category": "TIME MANAGEMENT AND FOCUS",
       "title": "Customizable pomodoro timer (work in progress)",
-      "description": "Little app that helps manage time and tasks. User can customize settings and add his own tasks",
+      "description": "A little app that helps manage time and tasks. Users can customize settings and add their tasks",
       "tags": ["Working with intervals", "Context API"],
       "image": {
         "src": "../../images/pomodoro.png",
